@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://celfons1.github.io
+title: @celfons
+email: celfons@marcelfonseca.com.br
+author: Marcel Fonseca
+description: My GitBlog
+paginate: 3
+google_analytics: 
